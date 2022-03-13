@@ -1,0 +1,13 @@
+3rd commit to check diff
+
+4th change to check diff
+
+5th change to commit diff
+
+6th commit skip staged
+
+7th commit
+
+8th commit
+
+9th commit
